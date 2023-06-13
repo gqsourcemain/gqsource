@@ -10,7 +10,7 @@ if game.PlaceId == 11978447465 then
     
 
     local Section2 = Window:MakeTab({
-        Name = "Auto Farm TEST",
+        Name = "Auto Farm",
         Icon = "rbxassetid://4483345998",
         PremiumOnly = false
     })
